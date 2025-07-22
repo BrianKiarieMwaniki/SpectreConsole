@@ -1,13 +1,5 @@
 ﻿using Spectre.Console;
 
-<<<<<<< Updated upstream
-AnsiConsole.MarkupLine("[red bold]Hello, world![/]");
-AnsiConsole.MarkupLine("Hello, world!");
-AnsiConsole.MarkupLine("[slowblink]Hello, world![/]");
-
-Console.ReadLine();
-AnsiConsole.Clear();
-=======
 #region Lesson 02 - Initial Setup
 //AnsiConsole.MarkupLine("[red bold]Hello, world![/]");
 //AnsiConsole.MarkupLine("Hello, world!");
@@ -27,4 +19,4 @@ AnsiConsole.Write(new Markup("Danger Text from Style!\n", danger));
 Console.ReadLine();
 AnsiConsole.Clear();
 
->>>>>>> Stashed changes
+
